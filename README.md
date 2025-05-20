@@ -1,10 +1,10 @@
 ### THE BEST WAY TO FREDICT THE FUTURE IS TO CREATE IT. 👋👋👋
-📚 I'm Quang Anh – a curious mind on a constant journey of learning.
-💻 I enjoy working on web projects, building AI apps, and learning through real-world challenges.  
-🛠️ My tech stack includes:
-    - 🌐 HTML, CSS, JavaScript (Web Development)
-    - 🤖 Machine Learning, Deep Learning (AI Projects)
-    - 🎮 Pygame (Game Development with Python)
+📚 I'm Quang Anh – a curious mind on a constant journey of learning. <br>
+💻 I enjoy working on web projects, building AI apps, and learning through real-world challenges.  <br>
+🛠️ My tech stack includes: <br>
+    - 🌐 HTML, CSS, JavaScript (Web Development) <br>
+    - 🤖 Machine Learning, Deep Learning (AI Projects) <br>
+    - 🎮 Pygame (Game Development with Python) <br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vietnh1009/) [![Youtube](https://github.com/vietnh1009/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
