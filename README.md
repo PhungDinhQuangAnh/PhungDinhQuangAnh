@@ -1,17 +1,16 @@
 ## WELCOME TO MY GITHUB🔥🔥🔥
 💡THE BEST WAY TO FREDICT THE FUTURE IS TO CREATE IT.<br>
 👋 I'm Quang Anh – a curious mind on a constant journey of learning.<br>
-🚀 I am interested in:<br>
+🚀 My tech stack includes:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 🌐 HTML, CSS, JavaScript (Web Development)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 🤖 Machine Learning, Deep Learning (AI Projects)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 🎮 Pygame (Game Development with Python)<br>
 ## 📫 How to reach me: 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/PhungDinhQuangAnh)
+[![Gmail](https://img.shields.io/badge/-pd.quanganh.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pd.quanganh.work@gmail.com)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vietnh1009/) [![Youtube](https://github.com/vietnh1009/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 
-
-
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Quang Anh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PhungDinhQuangAnh&show_icons=true&theme=radical&hide=contribs,prs,issues)
 
 <a href="https://github.com/vietnh1009/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
