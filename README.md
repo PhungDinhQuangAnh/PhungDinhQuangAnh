@@ -1,14 +1,13 @@
 ## WELCOME TO MY GITHUB🔥🔥🔥
 💡THE BEST WAY TO FREDICT THE FUTURE IS TO CREATE IT.<br>
 👋 I'm Quang Anh – a curious mind on a constant journey of learning.<br>
-🚀 My tech stack includes:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 🌐 HTML, CSS, JavaScript (Web Development)<br>
+🚀 My interests include:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 🌐 HTML, CSS, JavaScript, PHP (Web Development)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 🗄️ Database: MySQL<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 🤖 Machine Learning, Deep Learning (AI Projects)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● 🎮 Pygame (Game Development with Python)<br>
 ## 📫 How to reach me: 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/PhungDinhQuangAnh)
-[![Gmail](https://img.shields.io/badge/-pd.quanganh.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pd.quanganh.work@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/PhungDinhQuangAnh)
 
 ![Quang Anh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PhungDinhQuangAnh&show_icons=true&theme=radical&hide=contribs,prs,issues)
 
