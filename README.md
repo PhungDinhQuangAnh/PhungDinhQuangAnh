@@ -27,24 +27,24 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/vietnh1009/QuickDraw">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=solarized-light" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/vietnh1009/ASCII-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=dracula" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=solarized-light" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=onedark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=solarized-light" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/vietnh1009/Street-fighter-A3C-ICM-pytorch/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=Street-fighter-A3C-ICM-pytorch&theme=gruvbox" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=Street-fighter-A3C-ICM-pytorch&theme=solarized-light" />
       </a>    
     </td>
   </tr>
