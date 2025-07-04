@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=20&pause=1000&color=D84315&background=FFF3E0&center=true&vCenter=true&width=630&lines=👋Hello!+I'm+Quang+Anh;+🎯I'm+interested+in+Machine+Learning,+Deep+Learning+(AI+Project);🌱Wishing+you+a+day+full+of+smiles!)](https://github.com/PhungDinhQuangAnh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=20&pause=1000&color=E67E22&background=FEF5E7&center=true&vCenter=true&width=630&lines=👋Hello!+I'm+Quang+Anh;+🎯I'm+interested+in+Machine+Learning,+Deep+Learning+(AI+Project);🌱Wishing+you+a+day+full+of+smiles!)](https://github.com/PhungDinhQuangAnh)
 
 <table style="width:100%;">
   <tr>
@@ -12,41 +12,39 @@
     </td>
     <td>
       <!-- Biểu đồ ngôn ngữ -->
-      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=minimal" alt="Most Used Languages" width="100%" />
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=radical" alt="Most Used Languages" width="100%" />
       <!-- Thống kê tổng -->
-      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=PhungDinhQuangAnh&show_icons=true&theme=minimal" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=PhungDinhQuangAnh&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
 ---
----
 
-## 🔥Projects
+## 🔥 Projects
 
 <table>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/vietnh1009/QuickDraw">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=vue" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=tokyonight" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/vietnh1009/ASCII-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=github_light" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=dracula" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=flag-india" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=onedark" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/vietnh1009/Street-fighter-A3C-ICM-pytorch/">
-      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Street-fighter-A3C-ICM-pytorch&theme=graywhite" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=Street-fighter-A3C-ICM-pytorch&theme=dracula" />
       </a>    
     </td>
   </tr>
