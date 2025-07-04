@@ -12,9 +12,9 @@
     </td>
     <td>
       <!-- Biểu đồ ngôn ngữ -->
-      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=radical" alt="Most Used Languages" width="100%" />
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=vue" alt="Most Used Languages" width="100%" />
       <!-- Thống kê tổng -->
-      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=PhungDinhQuangAnh&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=PhungDinhQuangAnh&show_icons=true&theme=github_light" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -44,7 +44,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/vietnh1009/Street-fighter-A3C-ICM-pytorch/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=Street-fighter-A3C-ICM-pytorch&theme=dracula" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=Street-fighter-A3C-ICM-pytorch&theme=gruvbox" />
       </a>    
     </td>
   </tr>
