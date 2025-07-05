@@ -53,8 +53,9 @@
 ---
 
 <pre>
-🌞 “Happiness is not by chance, but by choice.”
-— Jim Rohn —
+    🌞<b><i> “Happiness is not by chance, but by choice.”
+  — Jim Rohn —
+      </i></b>
 </pre>
 
 </div>
