@@ -1,56 +1,77 @@
 <div align="center">
   
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=20&pause=1000&color=E67E22&background=FEF5E7&center=true&vCenter=true&width=630&lines=👋Hello!+I'm+Quang+Anh;+🎯I'm+interested+in+Machine+Learning,+Deep+Learning+(AI+Project);🌱Wishing+you+a+day+full+of+smiles!)](https://github.com/PhungDinhQuangAnh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=20&pause=600&color=2776B7&center=true&vCenter=true&width=630&lines=👋+Hello!+I'm+Quang+Anh;🙋‍♂️+Mind+if+I+ask+your+name?;.+.+.+.+.;😊+Nice+to+meet+you!;💬+What+are+you+passionate+about?;.+.+.+.+.;🎯+I'm+into+ML,+DL+and+building+AI+projects!;🌱Wishing+you+a+day+full+of+smiles!)](https://github.com/PhungDinhQuangAnh)
 
 <table style="width:100%;">
   <tr>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="350" alt="NUX_Octodex">
       </p>
     </td>
     <td>
-      <!-- Biểu đồ ngôn ngữ -->
-      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=vue" alt="Most Used Languages" width="100%" />
-      <!-- Thống kê tổng -->
-      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=PhungDinhQuangAnh&show_icons=true&theme=github_light" alt="GitHub Stats" />
+      <!-- 💻 Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=tokyonight&border_color=58A6FF&hide_border=false" alt="Most Used Languages" width="100%"/>
+      <!-- 📊 GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=PhungDinhQuangAnh&show_icons=true&theme=tokyonight&border_color=58A6FF&hide_border=false" alt="GitHub Stats" width="100%"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🔥 Projects
+# 🔥 Projects 🔥
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/vietnh1009/QuickDraw">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=solarized-light" />
+      <a href="https://github.com/PhungDinhQuangAnh/streamlit-ai-health">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=streamlit-ai-health&theme=tokyonight&border_color=89CFF0&border_radius=12">
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/vietnh1009/ASCII-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=solarized-light" />
+      <a href="https://github.com/PhungDinhQuangAnh/streamlit-ai-health">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=streamlit-ai-health&theme=onedark&border_color=61dafb&border_radius=12">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=solarized-light" />
+    <td width="50%">
+      <a href="https://github.com/PhungDinhQuangAnh/streamlit-ai-health">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=streamlit-ai-health&theme=radical&border_color=F94D6A&border_radius=12">
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/vietnh1009/Street-fighter-A3C-ICM-pytorch/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vietnh1009&repo=Street-fighter-A3C-ICM-pytorch&theme=solarized-light" />
-      </a>    
+    <td width="50%">
+      <a href="https://github.com/PhungDinhQuangAnh/streamlit-ai-health">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=streamlit-ai-health&theme=midnight-purple&border_color=A084E8&border_radius=12">
+      </a>
     </td>
   </tr>
 </table>
 
+---
+
+<pre>
+🌞 “Happiness is not by chance, but by choice.”
+— Jim Rohn —
+</pre>
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
