@@ -5,7 +5,7 @@
 
 <table style="width:100%;">
   <tr>
-    <td>
+    <td align="cemter">
       <p align="center"> 
         <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="350" alt="NUX_Octodex">
       </p>
