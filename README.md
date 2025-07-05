@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=20&pause=600&color=2776B7&center=true&vCenter=true&width=630&lines=👋+Hello!+I'm+Quang+Anh;🙋‍♂️+Mind+if+I+ask+your+name?;.+.+.+.+.;😊+Nice+to+meet+you!;💬+What+are+you+passionate+about?;.+.+.+.+.;🎯+I'm+into+ML,+DL+and+building+AI+projects!;🌱Wishing+you+a+day+full+of+smiles!)](https://github.com/PhungDinhQuangAnh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=20&pause=600&color=2776B7&center=true&vCenter=true&width=630&lines=👋+Hello!+I'm+Quang+Anh;🙋‍♂️+Mind+if+I+ask+your+name?;.+.+.+.+.;😊+Nice+to+meet+you!;💬+What+are+you+passionate+about?;.+.+.+.+.;🎯+I'm+into+ML,+DL+and+building+AI+projects!;😄+Wishing+you+a+day+full+of+smiles!)](https://github.com/PhungDinhQuangAnh)
 
 <table style="width:100%;">
   <tr>
