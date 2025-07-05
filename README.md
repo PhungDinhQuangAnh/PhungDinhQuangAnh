@@ -5,10 +5,10 @@
 
 <table style="width:100%;">
   <tr>
-    <td>
+    <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="350" alt="NUX_Octodex">
     </td>
-    <td>
+    <td align="center">
       <!-- 💻 Top Languages -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=tokyonight&border_color=58A6FF&hide_border=false" alt="Most Used Languages" width="100%"/>
       <!-- 📊 GitHub Stats -->
@@ -23,24 +23,24 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/PhungDinhQuangAnh/streamlit-ai-health">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=streamlit-ai-health&theme=tokyonight&border_color=89CFF0&border_radius=12">
       </a>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/PhungDinhQuangAnh/streamlit-ai-health">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=streamlit-ai-health&theme=onedark&border_color=61dafb&border_radius=12">
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/PhungDinhQuangAnh/streamlit-ai-health">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=streamlit-ai-health&theme=radical&border_color=F94D6A&border_radius=12">
       </a>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/PhungDinhQuangAnh/streamlit-ai-health">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=streamlit-ai-health&theme=midnight-purple&border_color=A084E8&border_radius=12">
       </a>
