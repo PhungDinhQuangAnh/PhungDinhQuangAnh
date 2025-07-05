@@ -5,18 +5,14 @@
 
 <table style="width:100%;">
   <tr>
-    <td align="center">
-      <p align="center"> 
+    <td>
         <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="350" alt="NUX_Octodex">
-      </p>
     </td>
-    <td align="center">
-    <p align="center">
+    <td>
       <!-- 💻 Top Languages -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=tokyonight&border_color=58A6FF&hide_border=false" alt="Most Used Languages" width="100%"/>
       <!-- 📊 GitHub Stats -->
       <img src="https://github-readme-stats.vercel.app/api?username=PhungDinhQuangAnh&show_icons=true&theme=tokyonight&border_color=58A6FF&hide_border=false" alt="GitHub Stats" width="100%"/>
-    </p>
     </td>
   </tr>
 </table>
@@ -27,35 +23,27 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-    <p align="center">
+    <td width="50%">
       <a href="https://github.com/PhungDinhQuangAnh/streamlit-ai-health">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=streamlit-ai-health&theme=tokyonight&border_color=89CFF0&border_radius=12">
       </a>
-    </p>
     </td>
-    <td align="center" width="50%">
-    <p align="center">
+    <td width="50%">
       <a href="https://github.com/PhungDinhQuangAnh/streamlit-ai-health">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=streamlit-ai-health&theme=onedark&border_color=61dafb&border_radius=12">
       </a>
-    </p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-    <p align="center">
+    <td width="50%">
       <a href="https://github.com/PhungDinhQuangAnh/streamlit-ai-health">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=streamlit-ai-health&theme=radical&border_color=F94D6A&border_radius=12">
       </a>
     </td>
-    </p>
-    <td align="center" width="50%">
-    <p align="center">
+    <td width="50%">
       <a href="https://github.com/PhungDinhQuangAnh/streamlit-ai-health">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=streamlit-ai-health&theme=midnight-purple&border_color=A084E8&border_radius=12">
       </a>
-    </p>
     </td>
   </tr>
 </table>
