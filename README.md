@@ -8,11 +8,11 @@
     <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="350" alt="NUX_Octodex">
     </td>
-    <td align="center">
+    <td align="center">&cache_seconds=60&cache_seconds=60
       <!-- 💻 Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=tokyonight&border_color=58A6FF&hide_border=false" alt="Most Used Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=tokyonight&border_color=58A6FF&hide_border=false&cache_seconds=60" alt="Most Used Languages" width="100%"/>
       <!-- 📊 GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=PhungDinhQuangAnh&show_icons=true&theme=tokyonight&border_color=58A6FF&hide_border=false" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=PhungDinhQuangAnh&show_icons=true&theme=tokyonight&border_color=58A6FF&hide_border=false&cache_seconds=60" alt="GitHub Stats" width="100%"/>
     </td>
   </tr>
 </table>
