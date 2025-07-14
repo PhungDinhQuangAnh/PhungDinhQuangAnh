@@ -8,7 +8,7 @@
     <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="350" alt="NUX_Octodex">
     </td>
-    <td align="center">&cache_seconds=60&cache_seconds=60
+    <td align="center">
       <!-- 💻 Top Languages -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=tokyonight&border_color=58A6FF&hide_border=false&cache_seconds=60" alt="Most Used Languages" width="100%"/>
       <!-- 📊 GitHub Stats -->
@@ -25,24 +25,24 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/PhungDinhQuangAnh/ai-health">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=ai-health&theme=tokyonight&border_color=89CFF0&border_radius=12">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=ai-health&theme=tokyonight&border_color=89CFF0&border_radius=12&cache_seconds=60">
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/PhungDinhQuangAnh/kmeans-app">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=kmeans-app&theme=radical&border_color=F94D6A&border_radius=12">
+      <a href="https://github.com/PhungDinhQuangAnh/Kmeans_App">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=Kmeans_App&theme=radical&border_color=F94D6A&border_radius=12&cache_seconds=60">
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/PhungDinhQuangAnh/kmeans-app">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=kmeans-app&theme=onedark&border_color=C4BA28&border_radius=12">
+      <a href="https://github.com/PhungDinhQuangAnh/Python_Handbook">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=Python_Handbook&theme=onedark&border_color=C4BA28&border_radius=12&cache_seconds=60">
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/PhungDinhQuangAnh/ai-health">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=ai-health&theme=midnight-purple&border_color=A084E8&border_radius=12">
+      <a href="https://github.com/PhungDinhQuangAnh/PhungDinhQuangAnh">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=PhungDinhQuangAnh&theme=midnight-purple&border_color=A084E8&border_radius=12&cache_seconds=60">
       </a>
     </td>
   </tr>
