@@ -51,10 +51,12 @@
 ---
 
 <!-- 📈 GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhungDinhQuangAnh&theme=tokyon-night&area=true&hide_border=false&color=58A6FF&point=FFFFFF" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhungDinhQuangAnh&theme=tokyo-night&area=true&hide_border=false&color=58A6FF&point=FFFFFF" width="100%" />
 
 <!-- Snake Contribution Graph -->
 <img src="https://github.com/PhungDinhQuangAnh/PhungDinhQuangAnh/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+
+---
 
 ⬇⬇⬇⬇⬇
 
