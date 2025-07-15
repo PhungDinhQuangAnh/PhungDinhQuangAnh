@@ -1,23 +1,31 @@
-name: Generate Snake
+name: 🐍 Generate Snake Animation
 
 on:
+  # Bấm thủ công để tạo ảnh snake mới
   workflow_dispatch:
+  
+  # Tự động chạy mỗi ngày lúc 6h sáng
+  schedule:
+    - cron: "0 6 * * *"
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo content
-        uses: actions/checkout@v2
+      - name: 🧾 Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Generate the snake animation
+      - name: 🐍 Generate snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: PhungDinhQuangAnh
           outputs: |
             dist/github-contribution-grid-snake.svg
+          color_snake: '#58A6FF'
+          color_dots: '#d1d5da,#0d1117,#58A6FF,#1f6feb,#ffffff'
+          background_color: transparent
 
-      - name: Push the animation to the output branch
+      - name: 🚀 Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
