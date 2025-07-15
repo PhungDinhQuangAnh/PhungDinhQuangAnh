@@ -9,10 +9,10 @@
         <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" alt="NUX_Octodex">
     </td>
     <td align="center" width="55%">
+       <!-- 🔥 GitHub Streak -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhungDinhQuangAnh&theme=tokyonight&hide_border=false&fire=00FFFF&border=58A6FF&border_radius=5" alt="Github Streak" width="100%" />
       <!-- 💻 Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=tokyonight&border_color=58A6FF&hide_border=false&cache_seconds=60" alt="Most Used Languages" width="100%"/>
-      <!-- 📊 GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=PhungDinhQuangAnh&show_icons=true&theme=tokyonight&border_color=58A6FF&hide_border=false&cache_seconds=60" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=tokyonight&border_color=58A6FF&hide_border=false&cache_seconds=60&border_radius=5" alt="Most Used Languages" width="100%"/>
     </td>
   </tr>
 </table>
@@ -57,10 +57,6 @@
 </pre>
 
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PhungDinhQuangAnh&theme=tokyonight&border_radius=12&type=png)](https://git.io/streak-stats)
-
-
 
 
 
