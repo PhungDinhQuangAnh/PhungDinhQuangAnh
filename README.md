@@ -56,9 +56,13 @@
       </i></b>
 </pre>
 
+---
+
+<!-- Snake Contribution Graph -->
+<img src="https://github.com/PhungDinhQuangAnh/PhungDinhQuangAnh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
 </div>
 
-![Snake animation](https://github.com/PhungDinhQuangAnh/PhungDinhQuangAnh/blob/output/github-contribution-grid-snake.svg)
 
 
 
