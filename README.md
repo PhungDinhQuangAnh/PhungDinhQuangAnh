@@ -50,6 +50,8 @@
 
 ---
 
+# ⚡Contributions Activity⚡
+
 <!-- 📈 GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhungDinhQuangAnh&theme=tokyo-night&area=true&hide_border=false&color=58A6FF&point=FFFFFF" width="100%" />
 
@@ -58,7 +60,7 @@
 
 ---
 
-⬇⬇⬇⬇⬇
+⬇️⬇️⬇️⬇️⬇️ 
 
 <pre>
     🌞<b><i> “Happiness is not by chance, but by choice.”
