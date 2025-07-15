@@ -50,16 +50,19 @@
 
 ---
 
+<!-- 📈 GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhungDinhQuangAnh&theme=react-dark&area=true&hide_border=false&color=58A6FF&point=FFFFFF" width="100%" />
+
+<!-- Snake Contribution Graph -->
+<img src="https://github.com/PhungDinhQuangAnh/PhungDinhQuangAnh/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+
+⬇⬇⬇⬇⬇
+
 <pre>
     🌞<b><i> “Happiness is not by chance, but by choice.”
   — Jim Rohn —
       </i></b>
 </pre>
-
-⬇⬇⬇⬇⬇
- 
-<!-- Snake Contribution Graph -->
-<img src="https://github.com/PhungDinhQuangAnh/PhungDinhQuangAnh/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 
 </div>
 
