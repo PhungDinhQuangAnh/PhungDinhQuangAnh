@@ -58,16 +58,6 @@
 <!-- Snake Contribution Graph -->
 <img src="https://github.com/PhungDinhQuangAnh/PhungDinhQuangAnh/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 
----
-
-⬇️⬇️⬇️⬇️⬇️ 
-
-<pre>
-    🌞<b><i> “Happiness is not by chance, but by choice.”
-  — Jim Rohn —
-      </i></b>
-</pre>
-
 </div>
 
 
