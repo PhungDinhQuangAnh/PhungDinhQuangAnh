@@ -1,14 +1,14 @@
 <div align="center">
   
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=25&pause=500&color=2776B7&center=true&vCenter=true&width=630&lines=👋+Hello!+I'm+Quang+Anh;🙋‍♂️+Mind+if+I+ask+your+name?;.+.+.+.+.;😊+Nice+to+meet+you!;💬+What+are+you+passionate+about?;.+.+.+.+.;🎯+I'm+into+ML,+DL+and+building+AI+projects!;😄+Wishing+you+a+day+full+of+smiles!)](https://github.com/PhungDinhQuangAnh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=25&pause=200&color=2776B7&center=true&vCenter=true&width=630&lines=👋+Hello!+I'm+Quang+Anh;🙋‍♂️+Mind+if+I+ask+your+name?;.+.+.+.+.;😊+Nice+to+meet+you!;💬+What+are+you+passionate+about?;.+.+.+.+.;🎯+I'm+into+ML,+DL+and+building+AI+projects!;😄+Wishing+you+a+day+full+of+smiles!)](https://github.com/PhungDinhQuangAnh)
 
 <table style="width:100%;">
   <tr>
-    <td align="center" width="45%">
+    <td align="center" width="47%">
         <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" alt="NUX_Octodex">
     </td>
-    <td align="center" width="55%">
+    <td align="center" width="53%">
        <!-- 🔥 GitHub Streak -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhungDinhQuangAnh&theme=tokyonight&hide_border=false&fire=00FFFF&border=58A6FF&border_radius=8&cache_seconds=1800" alt="Github Streak" width="100%" />
       <!-- 💻 Top Languages -->
@@ -19,7 +19,7 @@
 
 ---
 
-# 🔥 Projects 🔥
+## 🔥 Projects 🔥
 
 <table style="width:100%;">
   <tr>
@@ -50,7 +50,7 @@
 
 ---
 
-# ⚡Contribution Activity⚡
+## ⚡Contribution Activity⚡
 
 <!-- 📈 GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhungDinhQuangAnh&theme=tokyo-night&area=true&hide_border=false&color=58A6FF&point=FFFFFF" width="100%" />
