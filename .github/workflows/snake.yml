@@ -1,4 +1,4 @@
-name: 🐍 Snake Animation
+name: 🐍 Generate Snake Animation
 
 on:
   workflow_dispatch:
@@ -14,11 +14,8 @@ jobs:
       - name: 🧾 Checkout repository
         uses: actions/checkout@v3
 
-      - name: 🧹 Remove old build
-        run: rm -rf dist
-
       - name: 🐍 Generate snake.svg
-        uses: Platane/snk@v2.1.0
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: PhungDinhQuangAnh
           outputs: |
