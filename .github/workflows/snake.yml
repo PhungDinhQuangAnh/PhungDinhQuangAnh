@@ -23,10 +23,10 @@ jobs:
           github_user_name: PhungDinhQuangAnh
           outputs: |
             dist/github-contribution-grid-snake.svg
-          color_snake: '#2e7d32'
-          color_dots: '#a5d6a7,#81c784,#66bb6a,#4caf50,#388e3c'
-          background_color: '#e8f5e9'
-          mode: overtaking
+            color_snake: '#2e7d32'
+            color_dots: '#a5d6a7,#81c784,#66bb6a,#4caf50,#388e3c'
+            background_color: '#e8f5e9'
+            mode: overtaking
           
       - name: 🚀 Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
