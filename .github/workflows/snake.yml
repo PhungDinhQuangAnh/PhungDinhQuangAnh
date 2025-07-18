@@ -18,7 +18,7 @@ jobs:
         run: rm -rf dist
 
       - name: 🐍 Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v2.1.0
         with:
           github_user_name: PhungDinhQuangAnh
           outputs: |
