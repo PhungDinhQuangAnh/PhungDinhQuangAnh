@@ -20,9 +20,9 @@ jobs:
           github_user_name: PhungDinhQuangAnh
           outputs: |
             dist/github-contribution-grid-snake.svg
-          color_snake: '#58A6FF'
-          color_dots: '#d1d5da,#0d1117,#58A6FF,#1f6feb,#ffffff'
-          background_color: transparent
+          color_snake: '#0057b8'
+          color_dots: '#c6e9ff,#90caff,#60aaff,#2a8bff,#006eff'
+          background_color: '#f8f9fa'
           mode: overtaking
           
       - name: 🚀 Deploy to output branch
