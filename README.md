@@ -25,7 +25,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/PhungDinhQuangAnh/ai-health">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=ai-health&theme=tokyonight&border_color=89CFF0&border_radius=12&cache_seconds=10" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=ai-health&theme=tokyonight&border_color=89CFF0&border_radius=12&cache_seconds=1800" width="100%">
       </a>
     </td>
     <td width="50%" align="center">
