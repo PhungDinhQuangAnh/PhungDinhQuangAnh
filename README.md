@@ -5,10 +5,10 @@
 
 <table style="width:100%;">
   <tr>
-    <td align="center" width="47%">
+    <td align="center" width="45%">
         <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" alt="NUX_Octodex">
     </td>
-    <td align="center" width="53%">
+    <td align="center" width="55%">
        <!-- 🔥 GitHub Streak -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhungDinhQuangAnh&theme=tokyonight&hide_border=false&fire=00FFFF&border=58A6FF&border_radius=8&cache_seconds=1800" alt="Github Streak" width="100%" />
       <!-- 💻 Top Languages -->
