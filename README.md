@@ -41,8 +41,8 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/PhungDinhQuangAnh/PhungDinhQuangAnh">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=PhungDinhQuangAnh&theme=midnight-purple&border_color=A084E8&border_radius=12&cache_seconds=2000" width="100%">
+      <a href="https://github.com/PhungDinhQuangAnh/RL_Q_Learning">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=RL_Q_Learning&theme=midnight-purple&border_color=A084E8&border_radius=12&cache_seconds=2000" width="100%">
       </a>
     </td>
   </tr>
