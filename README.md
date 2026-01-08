@@ -5,14 +5,12 @@
 
 <table style="width:100%;">
   <tr>
-    <td align="center" width="45%">
-        <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" alt="NUX_Octodex">
+    <td align="center" width="46%">
+        <img align="center" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" alt="NUX_Octodex">
     </td>
-    <td align="center" width="55%">
-       <!-- GitHub Streak -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhungDinhQuangAnh&theme=tokyonight&hide_border=false&fire=00FFFF&border=58A6FF&border_radius=8&cache_seconds=1800" alt="Github Streak" width="100%" />
-      <!-- Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=tokyonight&border_color=58A6FF&hide_border=false&cache_seconds=20000" alt="Most Used Languages" width="100%"/>
+    <td align="center" width="54%">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhungDinhQuangAnh&theme=2077" width="100%" />
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhungDinhQuangAnh&theme=2077" width="100%"/>
     </td>
   </tr>
 </table>
@@ -24,25 +22,25 @@
 <table style="width:100%;">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/PhungDinhQuangAnh/ai-health">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=ai-health&theme=radical&border_color=89CFF0&border_radius=12&cache_seconds=20000" width="100%">
+      <a href="https://github.com/PhungDinhQuangAnh/AI_Health">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=AI_Health&theme=radical&border_radius=12" width="100%">
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/PhungDinhQuangAnh/Kmeans_App">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=Kmeans_App&theme=tokyonight&border_color=F94D6A&border_radius=12&cache_seconds=20000" width="100%">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=Kmeans_App&theme=tokyonight&border_radius=12" width="100%">
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/PhungDinhQuangAnh/Python_Handbook">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=Python_Handbook&theme=midnight-purple&border_color=C4BA28&border_radius=12&cache_seconds=20000" width="100%">
+      <a href="https://github.com/PhungDinhQuangAnh/RL_Q_Learning">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=RL_Q_Learning&theme=onedark&border_radius=12" width="100%">
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/PhungDinhQuangAnh/RL_Q_Learning">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=RL_Q_Learning&theme=onedark&border_color=A084E8&border_radius=12&cache_seconds=20000" width="100%">
+      <a href="https://github.com/PhungDinhQuangAnh/Python_Handbook">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=Python_Handbook&theme=merko&border_radius=12" width="100%">
       </a>
     </td>
   </tr>
