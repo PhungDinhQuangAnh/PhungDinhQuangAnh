@@ -9,8 +9,8 @@
         <img align="center" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" alt="NUX_Octodex">
     </td>
     <td align="center" width="54%">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhungDinhQuangAnh&theme=2077" width="100%" />
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhungDinhQuangAnh&theme=2077" width="100%"/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhungDinhQuangAnh&theme=2077&border_radius=12" width="100%" />
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhungDinhQuangAnh&theme=2077&border_radius=12" width="100%"/>
     </td>
   </tr>
 </table>
