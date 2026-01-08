@@ -12,7 +12,7 @@
        <!-- 🔥 GitHub Streak -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhungDinhQuangAnh&theme=tokyonight&hide_border=false&fire=00FFFF&border=58A6FF&border_radius=8&cache_seconds=1800" alt="Github Streak" width="100%" />
       <!-- 💻 Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=tokyonight&border_color=58A6FF&hide_border=false&cache_seconds=1800" alt="Most Used Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhungDinhQuangAnh&layout=compact&hide=CSS&langs_count=6&theme=tokyonight&border_color=58A6FF&hide_border=false&cache_seconds=20000" alt="Most Used Languages" width="100%"/>
     </td>
   </tr>
 </table>
