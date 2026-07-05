@@ -23,24 +23,24 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/PhungDinhQuangAnh/Banking_Intelligence_Platform">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=Banking_Intelligence_Platform&theme=radical&border_radius=12" width="100%">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=Banking_Intelligence_Platform&theme=radical&border_radius=13" width="100%">
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/PhungDinhQuangAnh/Kmeans_App">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=Kmeans_App&theme=tokyonight&border_radius=12" width="100%">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=Kmeans_App&theme=merko&border_radius=13" width="100%">
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/PhungDinhQuangAnh/RL_Q_Learning">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=RL_Q_Learning&theme=onedark&border_radius=12" width="100%">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=RL_Q_Learning&theme=onedark&border_radius=13" width="100%">
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/PhungDinhQuangAnh/Python_Handbook">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=Python_Handbook&theme=merko&border_radius=12" width="100%">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhungDinhQuangAnh&repo=Python_Handbook&theme=tokyonight&border_radius=13" width="100%">
       </a>
     </td>
   </tr>
